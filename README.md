@@ -10,5 +10,6 @@
 cazelliAj7/cazelliAj7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[]!(https://media1.tenor.com/m/IEm8gmpWPi4AAAAC/angry-seccato.gif)
+![](https://media1.tenor.com/m/IEm8gmpWPi4AAAAC/angry-seccato.gif)
+
 
